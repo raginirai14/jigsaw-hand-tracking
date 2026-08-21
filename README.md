@@ -12,12 +12,12 @@ A gesture-controlled jigsaw puzzle game built with OpenCV and MediaPipe. No mous
 - **Pygame** — background music
 
 ## Features
-- 🖐️ Pinch gesture to grab and drag pieces
-- 🧲 Snap logic using Pythagorean distance
-- 🎵 Background music
-- 📸 Live webcam feed in corner
-- 🏆 Completion message on solving
-- 4 difficulty levels (2x2 to 5x5)
+-  Pinch gesture to grab and drag pieces
+-  Snap logic using Pythagorean distance
+-  Background music
+-  Live webcam feed in corner
+-  Completion message on solving
+-  4 difficulty levels (2x2 to 5x5)
 
 ## Setup
 
@@ -45,5 +45,4 @@ jigsaw_game/
 ├── images/       # Puzzle images (level1-4.jpg)
 └── sounds/       # Background music
 
-## Author
-Ragini Rai — SRM IST, AI & ML
+Ragini Rai
