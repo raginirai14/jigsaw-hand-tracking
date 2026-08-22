@@ -25,7 +25,6 @@ LEVELS = [
     ("images/level1.jpg", 2),
     ("images/level2.jpg", 3),
     ("images/level3.jpg", 4),
-    ("images/level4.jpg", 5),
 ]
 
 model_path = os.path.expanduser("~/jigsaw_game/hand_landmarker.task")
